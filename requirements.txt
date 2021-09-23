@@ -1,0 +1,6 @@
+scrapy
+pandas
+boto3
+contentful
+contentful_management
+price-parser
