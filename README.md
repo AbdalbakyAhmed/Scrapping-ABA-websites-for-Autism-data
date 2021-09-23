@@ -1,6 +1,6 @@
 # abanerd-scrapy
-
-
+*A freelance job was provided to Upwork client who asked to extract the data of Autism websites that provide ABA-CEUs courses and degrees*
+*Websites List: [CEU Websites to filter out - CEU's](https://docs.google.com/spreadsheets/d/1c9QJrWRngF_CotgRLqg_E9TWsBo9GD9S3vDJrqWZZ3A/edit?usp=sharing)*
 ## AbaCeusItem
 
 ```python
